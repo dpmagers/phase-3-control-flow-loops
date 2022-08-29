@@ -2,6 +2,10 @@
   Write a method `happy_new_year` that outputs numbers starting at 10 and
    counting down to 1. After reaching 1, print out "Happy New Year!"
 */
+
+
+
+
 function happyNewYear() {
   let counter = 10;
   while (counter > 0) {
